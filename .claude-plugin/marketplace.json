@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "my-plugin",
-      "source": "./",
+      "source": "./plugins/my-plugin",
       "description": "Short description of your plugin"
     }
   ]
