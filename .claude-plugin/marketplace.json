@@ -1,13 +1,14 @@
 {
-  "name": "my-marketplace",
+  "name": "freellmapi-marketplace",
   "owner": {
     "name": "nogo07xverse-lgtm"
   },
   "plugins": [
     {
-      "name": "my-plugin",
+      "name": "FreeLLMApi",
       "source": "./plugins/my-plugin",
-      "description": "Short description of your plugin"
+      "description": "Configure, test, and troubleshoot free LLM API endpoints, base URLs, and model routing inside Claude Code."
     }
   ]
 }
+
