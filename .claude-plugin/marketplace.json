@@ -1,0 +1,13 @@
+{
+  "name": "my-marketplace",
+  "owner": {
+    "name": "nogo07xverse-lgtm"
+  },
+  "plugins": [
+    {
+      "name": "my-plugin",
+      "source": "./",
+      "description": "Short description of your plugin"
+    }
+  ]
+}
